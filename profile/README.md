@@ -3,9 +3,9 @@ building autonomous systems for autonomous humans
 
 Our philosophy is simple: Most "maintenance" work exists because systems were built wrong in the first place. We fix that.
 
-- ⚡ Your data pipeline shouldn't need an army of DevOps to stay alive
-- 🌑 Good engineering eliminates problems. Bad engineering perpetuates them
-- 🎭 Build new things. Stop maintaining broken ones
+- Your data pipeline shouldn't need an army of DevOps to stay alive
+- Good engineering eliminates problems. Bad engineering perpetuates them
+- Build new things. Stop maintaining broken ones
 
 What we actually do:
 
